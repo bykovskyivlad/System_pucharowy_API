@@ -3,28 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\vlady\\source\\repos\\System_pucharowy_API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E957667A-B499-4B50-A748-A9AAA959196D}|System_pucharowy_API\\System_pucharowy_API.csproj|c:\\users\\vlady\\source\\repos\\system_pucharowy_api\\system_pucharowy_api\\models\\tournamentparticipant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E957667A-B499-4B50-A748-A9AAA959196D}|System_pucharowy_API\\System_pucharowy_API.csproj|solutionrelative:system_pucharowy_api\\models\\tournamentparticipant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E957667A-B499-4B50-A748-A9AAA959196D}|System_pucharowy_API\\System_pucharowy_API.csproj|c:\\users\\vlady\\source\\repos\\system_pucharowy_api\\system_pucharowy_api\\models\\tournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E957667A-B499-4B50-A748-A9AAA959196D}|System_pucharowy_API\\System_pucharowy_API.csproj|solutionrelative:system_pucharowy_api\\models\\tournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E957667A-B499-4B50-A748-A9AAA959196D}|System_pucharowy_API\\System_pucharowy_API.csproj|c:\\users\\vlady\\source\\repos\\system_pucharowy_api\\system_pucharowy_api\\graphql\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E957667A-B499-4B50-A748-A9AAA959196D}|System_pucharowy_API\\System_pucharowy_API.csproj|solutionrelative:system_pucharowy_api\\graphql\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E957667A-B499-4B50-A748-A9AAA959196D}|System_pucharowy_API\\System_pucharowy_API.csproj|c:\\users\\vlady\\source\\repos\\system_pucharowy_api\\system_pucharowy_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E957667A-B499-4B50-A748-A9AAA959196D}|System_pucharowy_API\\System_pucharowy_API.csproj|solutionrelative:system_pucharowy_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E957667A-B499-4B50-A748-A9AAA959196D}|System_pucharowy_API\\System_pucharowy_API.csproj|c:\\users\\vlady\\source\\repos\\system_pucharowy_api\\system_pucharowy_api\\models\\bracket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E957667A-B499-4B50-A748-A9AAA959196D}|System_pucharowy_API\\System_pucharowy_API.csproj|solutionrelative:system_pucharowy_api\\models\\bracket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E957667A-B499-4B50-A748-A9AAA959196D}|System_pucharowy_API\\System_pucharowy_API.csproj|c:\\users\\vlady\\source\\repos\\system_pucharowy_api\\system_pucharowy_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E957667A-B499-4B50-A748-A9AAA959196D}|System_pucharowy_API\\System_pucharowy_API.csproj|solutionrelative:system_pucharowy_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E957667A-B499-4B50-A748-A9AAA959196D}|System_pucharowy_API\\System_pucharowy_API.csproj|c:\\users\\vlady\\source\\repos\\system_pucharowy_api\\system_pucharowy_api\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E957667A-B499-4B50-A748-A9AAA959196D}|System_pucharowy_API\\System_pucharowy_API.csproj|solutionrelative:system_pucharowy_api\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E957667A-B499-4B50-A748-A9AAA959196D}|System_pucharowy_API\\System_pucharowy_API.csproj|c:\\users\\vlady\\source\\repos\\system_pucharowy_api\\system_pucharowy_api\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E957667A-B499-4B50-A748-A9AAA959196D}|System_pucharowy_API\\System_pucharowy_API.csproj|solutionrelative:system_pucharowy_api\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E957667A-B499-4B50-A748-A9AAA959196D}|System_pucharowy_API\\System_pucharowy_API.csproj|c:\\users\\vlady\\source\\repos\\system_pucharowy_api\\system_pucharowy_api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E957667A-B499-4B50-A748-A9AAA959196D}|System_pucharowy_API\\System_pucharowy_API.csproj|solutionrelative:system_pucharowy_api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E957667A-B499-4B50-A748-A9AAA959196D}|System_pucharowy_API\\System_pucharowy_API.csproj|c:\\users\\vlady\\source\\repos\\system_pucharowy_api\\system_pucharowy_api\\authozycja\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E957667A-B499-4B50-A748-A9AAA959196D}|System_pucharowy_API\\System_pucharowy_API.csproj|solutionrelative:system_pucharowy_api\\authozycja\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E957667A-B499-4B50-A748-A9AAA959196D}|System_pucharowy_API\\System_pucharowy_API.csproj|c:\\users\\vlady\\source\\repos\\system_pucharowy_api\\system_pucharowy_api\\authozycja\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E957667A-B499-4B50-A748-A9AAA959196D}|System_pucharowy_API\\System_pucharowy_API.csproj|solutionrelative:system_pucharowy_api\\authozycja\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E957667A-B499-4B50-A748-A9AAA959196D}|System_pucharowy_API\\System_pucharowy_API.csproj|c:\\users\\vlady\\source\\repos\\system_pucharowy_api\\system_pucharowy_api\\domain\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E957667A-B499-4B50-A748-A9AAA959196D}|System_pucharowy_API\\System_pucharowy_API.csproj|solutionrelative:system_pucharowy_api\\domain\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E957667A-B499-4B50-A748-A9AAA959196D}|System_pucharowy_API\\System_pucharowy_API.csproj|c:\\users\\vlady\\source\\repos\\system_pucharowy_api\\system_pucharowy_api\\graphql\\mutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E957667A-B499-4B50-A748-A9AAA959196D}|System_pucharowy_API\\System_pucharowy_API.csproj|solutionrelative:system_pucharowy_api\\graphql\\mutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E957667A-B499-4B50-A748-A9AAA959196D}|System_pucharowy_API\\System_pucharowy_API.csproj|c:\\users\\vlady\\source\\repos\\system_pucharowy_api\\system_pucharowy_api\\authozycja\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E957667A-B499-4B50-A748-A9AAA959196D}|System_pucharowy_API\\System_pucharowy_API.csproj|solutionrelative:system_pucharowy_api\\authozycja\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E957667A-B499-4B50-A748-A9AAA959196D}|System_pucharowy_API\\System_pucharowy_API.csproj|c:\\users\\vlady\\source\\repos\\system_pucharowy_api\\system_pucharowy_api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E957667A-B499-4B50-A748-A9AAA959196D}|System_pucharowy_API\\System_pucharowy_API.csproj|solutionrelative:system_pucharowy_api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E957667A-B499-4B50-A748-A9AAA959196D}|System_pucharowy_API\\System_pucharowy_API.csproj|c:\\users\\vlady\\source\\repos\\system_pucharowy_api\\system_pucharowy_api\\domain\\tournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E957667A-B499-4B50-A748-A9AAA959196D}|System_pucharowy_API\\System_pucharowy_API.csproj|solutionrelative:system_pucharowy_api\\domain\\tournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E957667A-B499-4B50-A748-A9AAA959196D}|System_pucharowy_API\\System_pucharowy_API.csproj|c:\\users\\vlady\\source\\repos\\system_pucharowy_api\\system_pucharowy_api\\domain\\tournamentparticipant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E957667A-B499-4B50-A748-A9AAA959196D}|System_pucharowy_API\\System_pucharowy_API.csproj|solutionrelative:system_pucharowy_api\\domain\\tournamentparticipant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E957667A-B499-4B50-A748-A9AAA959196D}|System_pucharowy_API\\System_pucharowy_API.csproj|c:\\users\\vlady\\source\\repos\\system_pucharowy_api\\system_pucharowy_api\\domain\\bracket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E957667A-B499-4B50-A748-A9AAA959196D}|System_pucharowy_API\\System_pucharowy_API.csproj|solutionrelative:system_pucharowy_api\\domain\\bracket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E957667A-B499-4B50-A748-A9AAA959196D}|System_pucharowy_API\\System_pucharowy_API.csproj|c:\\users\\vlady\\source\\repos\\system_pucharowy_api\\system_pucharowy_api\\migrations\\20260113203928_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E957667A-B499-4B50-A748-A9AAA959196D}|System_pucharowy_API\\System_pucharowy_API.csproj|solutionrelative:system_pucharowy_api\\migrations\\20260113203928_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,78 +74,171 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20260113203928_Init.cs",
+              "DocumentMoniker": "C:\\Users\\vlady\\source\\repos\\System_pucharowy_API\\System_pucharowy_API\\Migrations\\20260113203928_Init.cs",
+              "RelativeDocumentMoniker": "System_pucharowy_API\\Migrations\\20260113203928_Init.cs",
+              "ToolTip": "C:\\Users\\vlady\\source\\repos\\System_pucharowy_API\\System_pucharowy_API\\Migrations\\20260113203928_Init.cs",
+              "RelativeToolTip": "System_pucharowy_API\\Migrations\\20260113203928_Init.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T20:39:28.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Mutation.cs",
+              "DocumentMoniker": "C:\\Users\\vlady\\source\\repos\\System_pucharowy_API\\System_pucharowy_API\\GraphQL\\Mutation.cs",
+              "RelativeDocumentMoniker": "System_pucharowy_API\\GraphQL\\Mutation.cs",
+              "ToolTip": "C:\\Users\\vlady\\source\\repos\\System_pucharowy_API\\System_pucharowy_API\\GraphQL\\Mutation.cs",
+              "RelativeToolTip": "System_pucharowy_API\\GraphQL\\Mutation.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T19:35:54.689Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TournamentParticipant.cs",
-              "DocumentMoniker": "C:\\Users\\vlady\\source\\repos\\System_pucharowy_API\\System_pucharowy_API\\Models\\TournamentParticipant.cs",
-              "RelativeDocumentMoniker": "System_pucharowy_API\\Models\\TournamentParticipant.cs",
-              "ToolTip": "C:\\Users\\vlady\\source\\repos\\System_pucharowy_API\\System_pucharowy_API\\Models\\TournamentParticipant.cs",
-              "RelativeToolTip": "System_pucharowy_API\\Models\\TournamentParticipant.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Title": "Query.cs",
+              "DocumentMoniker": "C:\\Users\\vlady\\source\\repos\\System_pucharowy_API\\System_pucharowy_API\\GraphQL\\Query.cs",
+              "RelativeDocumentMoniker": "System_pucharowy_API\\GraphQL\\Query.cs",
+              "ToolTip": "C:\\Users\\vlady\\source\\repos\\System_pucharowy_API\\System_pucharowy_API\\GraphQL\\Query.cs",
+              "RelativeToolTip": "System_pucharowy_API\\GraphQL\\Query.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-10T14:19:08.048Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Match.cs",
-              "DocumentMoniker": "C:\\Users\\vlady\\source\\repos\\System_pucharowy_API\\System_pucharowy_API\\Models\\Match.cs",
-              "RelativeDocumentMoniker": "System_pucharowy_API\\Models\\Match.cs",
-              "ToolTip": "C:\\Users\\vlady\\source\\repos\\System_pucharowy_API\\System_pucharowy_API\\Models\\Match.cs",
-              "RelativeToolTip": "System_pucharowy_API\\Models\\Match.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-10T14:09:53.883Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Bracket.cs",
-              "DocumentMoniker": "C:\\Users\\vlady\\source\\repos\\System_pucharowy_API\\System_pucharowy_API\\Models\\Bracket.cs",
-              "RelativeDocumentMoniker": "System_pucharowy_API\\Models\\Bracket.cs",
-              "ToolTip": "C:\\Users\\vlady\\source\\repos\\System_pucharowy_API\\System_pucharowy_API\\Models\\Bracket.cs",
-              "RelativeToolTip": "System_pucharowy_API\\Models\\Bracket.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-10T14:09:21.706Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Tournament.cs",
-              "DocumentMoniker": "C:\\Users\\vlady\\source\\repos\\System_pucharowy_API\\System_pucharowy_API\\Models\\Tournament.cs",
-              "RelativeDocumentMoniker": "System_pucharowy_API\\Models\\Tournament.cs",
-              "ToolTip": "C:\\Users\\vlady\\source\\repos\\System_pucharowy_API\\System_pucharowy_API\\Models\\Tournament.cs",
-              "RelativeToolTip": "System_pucharowy_API\\Models\\Tournament.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-10T14:09:07.022Z",
+              "WhenOpened": "2026-01-13T19:32:50.492Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\vlady\\source\\repos\\System_pucharowy_API\\System_pucharowy_API\\Models\\User.cs",
-              "RelativeDocumentMoniker": "System_pucharowy_API\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\vlady\\source\\repos\\System_pucharowy_API\\System_pucharowy_API\\Models\\User.cs",
-              "RelativeToolTip": "System_pucharowy_API\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\vlady\\source\\repos\\System_pucharowy_API\\System_pucharowy_API\\Authozycja\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "System_pucharowy_API\\Authozycja\\JwtTokenService.cs",
+              "ToolTip": "C:\\Users\\vlady\\source\\repos\\System_pucharowy_API\\System_pucharowy_API\\Authozycja\\JwtTokenService.cs",
+              "RelativeToolTip": "System_pucharowy_API\\Authozycja\\JwtTokenService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA6wCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-10T14:08:51.711Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T19:24:20.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\vlady\\source\\repos\\System_pucharowy_API\\System_pucharowy_API\\Authozycja\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "System_pucharowy_API\\Authozycja\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\vlady\\source\\repos\\System_pucharowy_API\\System_pucharowy_API\\Authozycja\\PasswordHasher.cs",
+              "RelativeToolTip": "System_pucharowy_API\\Authozycja\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T19:22:26.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JWTOptions.cs",
+              "DocumentMoniker": "C:\\Users\\vlady\\source\\repos\\System_pucharowy_API\\System_pucharowy_API\\Authozycja\\JWTOptions.cs",
+              "RelativeDocumentMoniker": "System_pucharowy_API\\Authozycja\\JWTOptions.cs",
+              "ToolTip": "C:\\Users\\vlady\\source\\repos\\System_pucharowy_API\\System_pucharowy_API\\Authozycja\\JWTOptions.cs",
+              "RelativeToolTip": "System_pucharowy_API\\Authozycja\\JWTOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T19:21:04.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\vlady\\source\\repos\\System_pucharowy_API\\System_pucharowy_API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "System_pucharowy_API\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\vlady\\source\\repos\\System_pucharowy_API\\System_pucharowy_API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "System_pucharowy_API\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwC0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T19:10:22.849Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vlady\\source\\repos\\System_pucharowy_API\\System_pucharowy_API\\appsettings.json",
+              "RelativeDocumentMoniker": "System_pucharowy_API\\appsettings.json",
+              "ToolTip": "C:\\Users\\vlady\\source\\repos\\System_pucharowy_API\\System_pucharowy_API\\appsettings.json",
+              "RelativeToolTip": "System_pucharowy_API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-13T18:57:33.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TournamentParticipant.cs",
+              "DocumentMoniker": "C:\\Users\\vlady\\source\\repos\\System_pucharowy_API\\System_pucharowy_API\\Domain\\TournamentParticipant.cs",
+              "RelativeDocumentMoniker": "System_pucharowy_API\\Domain\\TournamentParticipant.cs",
+              "ToolTip": "C:\\Users\\vlady\\source\\repos\\System_pucharowy_API\\System_pucharowy_API\\Domain\\TournamentParticipant.cs",
+              "RelativeToolTip": "System_pucharowy_API\\Domain\\TournamentParticipant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T14:19:08.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Match.cs",
+              "DocumentMoniker": "C:\\Users\\vlady\\source\\repos\\System_pucharowy_API\\System_pucharowy_API\\Domain\\Match.cs",
+              "RelativeDocumentMoniker": "System_pucharowy_API\\Domain\\Match.cs",
+              "ToolTip": "C:\\Users\\vlady\\source\\repos\\System_pucharowy_API\\System_pucharowy_API\\Domain\\Match.cs",
+              "RelativeToolTip": "System_pucharowy_API\\Domain\\Match.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA/wBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T14:09:53.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Bracket.cs",
+              "DocumentMoniker": "C:\\Users\\vlady\\source\\repos\\System_pucharowy_API\\System_pucharowy_API\\Domain\\Bracket.cs",
+              "RelativeDocumentMoniker": "System_pucharowy_API\\Domain\\Bracket.cs",
+              "ToolTip": "C:\\Users\\vlady\\source\\repos\\System_pucharowy_API\\System_pucharowy_API\\Domain\\Bracket.cs",
+              "RelativeToolTip": "System_pucharowy_API\\Domain\\Bracket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T14:09:21.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Tournament.cs",
+              "DocumentMoniker": "C:\\Users\\vlady\\source\\repos\\System_pucharowy_API\\System_pucharowy_API\\Domain\\Tournament.cs",
+              "RelativeDocumentMoniker": "System_pucharowy_API\\Domain\\Tournament.cs",
+              "ToolTip": "C:\\Users\\vlady\\source\\repos\\System_pucharowy_API\\System_pucharowy_API\\Domain\\Tournament.cs",
+              "RelativeToolTip": "System_pucharowy_API\\Domain\\Tournament.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T14:09:07.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\vlady\\source\\repos\\System_pucharowy_API\\System_pucharowy_API\\Domain\\User.cs",
+              "RelativeDocumentMoniker": "System_pucharowy_API\\Domain\\User.cs",
+              "ToolTip": "C:\\Users\\vlady\\source\\repos\\System_pucharowy_API\\System_pucharowy_API\\Domain\\User.cs",
+              "RelativeToolTip": "System_pucharowy_API\\Domain\\User.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T14:08:51.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\vlady\\source\\repos\\System_pucharowy_API\\System_pucharowy_API\\Program.cs",
               "RelativeDocumentMoniker": "System_pucharowy_API\\Program.cs",
               "ToolTip": "C:\\Users\\vlady\\source\\repos\\System_pucharowy_API\\System_pucharowy_API\\Program.cs",
               "RelativeToolTip": "System_pucharowy_API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-10T14:05:24.343Z",
               "EditorCaption": ""
